@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+.stage{ perspective: 800px;width:800px;text-align: center;margin-top:200px;}
+.conatainer{transform-style: preserve-3d;}
+.conatainer img{position:absolute;width:128px;}
+img:nth-child(1) { transform: rotateY(   0deg ) translateZ(198.839px); }
+img:nth-child(2) { transform: rotateY(  40deg ) translateZ(198.839px); }
+img:nth-child(3) { transform: rotateY(  80deg ) translateZ(198.839px); }
+img:nth-child(4) { transform: rotateY( 120deg ) translateZ(198.839px); }
+img:nth-child(5) { transform: rotateY( 160deg ) translateZ(198.839px); }
+img:nth-child(6) { transform: rotateY( 200deg ) translateZ(198.839px); }
+img:nth-child(7) { transform: rotateY( 240deg ) translateZ(198.839px); }
+img:nth-child(8) { transform: rotateY( 280deg ) translateZ(198.839px); }
+img:nth-child(9) { transform: rotateY( 320deg ) translateZ(198.839px); }
+    </style>
+</head>
+<body>
+   <div class="stage">
+        <div class="conatainer">
+        <img src="an1.jpg" alt="">
+        <img src="an2.jpg" alt="">
+        <img src="an3.jpg" alt="">
+        <img src="an4.jpg" alt="">
+        <img src="an5.jpg" alt="">
+        <img src="an6.jpg" alt="">
+        <img src="an7.jpg" alt="">
+        <img src="an8.jpg" alt="">
+        <img src="an9.jpg" alt="">
+        </div>
+   </div>
+   <script>
+   var int = self.setInterval("transformImg()", 1000)
+   var t=0;
+    function transformImg() {
+        t++;
+        var imgs = document.getElementsByTagName('img')
+        for(var i=0,length=imgs.length;i<length;i++){
+            imgs[i].style.transform=" rotateY( "+(i-t)*40+"deg ) translateZ(198.839px)"
+        }
+    }
+   
+   </script>
+</body>
+</html>
