@@ -1,14 +1,9 @@
 <p align="center">
     <img alt="newued logo" src="https://avatars2.githubusercontent.com/u/19658614?s=200&v=4" style="border-radius:50%;">
 </p>
-<p align="center">newued</p>
-7年互联网经验，四年vue/react等框架前端，玩的了浏览器，写的了播放器。
-<h4>生命不息  coding不止</h4>
-
-### 联系方式
-- QQ:2535565243
-- 微信：wzk-1314
-
+<p align="center">多年资深🐴农一枚。</p>
+<h4 align="center">生命不息  coding不止</h4>
+<p  align="center">QQ:2535565243    /  微信：wzk-1314</p>
 
 ## 工作经历
 从毕业至今，在互联网广告营销公司/多媒体开发公司/在线教育公司/区块链公司/sass电商公司/社交电商直播等多个行业的大中小公司工作期间，擅长从0搭建一个稳定可靠可拓展的项目，也能和团队协同作战打造出更完美的产品和服务。
@@ -50,4 +45,11 @@
     
     
 
-### web开发阶段 
+### 其他
+- [我的部分博客文章及摘抄笔记](https://github.com/newued/me/issues)
+
+
+### 联系方式
+有任何问题请下方任选咨询。
+- QQ:2535565243
+- 微信：wzk-1314
