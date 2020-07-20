@@ -14,6 +14,8 @@
     ### 我的知识结构
     #### 速览图
     ![我的知识结构](https://s1.ax1x.com/2020/07/20/U4Xii8.png)
+    
+    #### 更多
 
     ```javascript
     //前端基础知识
@@ -33,6 +35,7 @@
     const more_FrentEndArr=['模块化和工程化','node做开发工具','node做eletron应用','node搭建简单后台服务','loopback、koa、express等后台框使用']     
     
     ```
+    
     
     ### 我的开源-MIT
     -   [ vcallapp](https://www.npmjs.com/package/vcallapp) 一个方便通过 vue 指令唤起 APP 的解决方案
