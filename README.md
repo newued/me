@@ -5,6 +5,16 @@
 <h4 align="center">生命不息  coding不止</h4>
 <p  align="center">QQ:2535565243    /  微信：wzk-1314</p>
 
+### 我的开源-MIT
+    -   [ vcallapp](https://www.npmjs.com/package/vcallapp) 一个方便通过 vue 指令唤起 APP 的解决方案
+    -    [ant-mobile-wzk](https://www.npmjs.com/package/antd-mobile-wzk) 一个自用的ant-mobile/react模板
+    -    [vue-cli3-teamplate](https://github.com/newued/vue-cli3-template) 一个基础vue-cli3+vue2.x的移动端模板
+    - [Lottery-turntable](https://github.com/newued/Lottery-turntable)一个基础jquery二次修改的九宫格抽奖工具,可设定抽奖概率
+    - as3模板
+    - [SimpleFTP](https://github.com/newued/SimpleFTP) 用as3实现的ftp大文件上传工具/支持断点续传/可视化进度/大文件最大支持4G，依赖flashPlayer
+    - [rtmplayer](https://github.com/newued/rtmplayer) 一个rtmp视频播放器(flash版本、pc版本)依赖flashPlayer
+    - [musicSrc-Extractor](https://github.com/newued/musicSrc-Extractor) 音乐源文件地址提取工具、依赖flashPlayer
+
 ## 工作经历
 从毕业至今，在互联网广告营销公司/多媒体开发公司/在线教育公司/区块链公司/sass电商公司/社交电商直播等多个行业的大中小公司工作期间，擅长从0搭建一个稳定可靠可拓展的项目，也能和团队协同作战打造出更完美的产品和服务。
 - 关于技术
@@ -36,19 +46,6 @@
     
     ```
     
-    
-    ### 我的开源-MIT
-    -   [ vcallapp](https://www.npmjs.com/package/vcallapp) 一个方便通过 vue 指令唤起 APP 的解决方案
-    -    [ant-mobile-wzk](https://www.npmjs.com/package/antd-mobile-wzk) 一个自用的ant-mobile/react模板
-    -    [vue-cli3-teamplate](https://github.com/newued/vue-cli3-template) 一个基础vue-cli3+vue2.x的移动端模板
-    - [Lottery-turntable](https://github.com/newued/Lottery-turntable)一个基础jquery二次修改的九宫格抽奖工具,可设定抽奖概率
-    - as3模板
-    - [SimpleFTP](https://github.com/newued/SimpleFTP) 用as3实现的ftp大文件上传工具/支持断点续传/可视化进度/大文件最大支持4G，依赖flashPlayer
-    - [rtmplayer](https://github.com/newued/rtmplayer) 一个rtmp视频播放器(flash版本、pc版本)依赖flashPlayer
-    - [musicSrc-Extractor](https://github.com/newued/musicSrc-Extractor) 音乐源文件地址提取工具、依赖flashPlayer
-    
-    
-
 ### 其他
 - [我的部分博客文章及摘抄笔记](https://github.com/newued/me/issues)
 
