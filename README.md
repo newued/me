@@ -13,26 +13,27 @@
     
     ### 我的知识结构
     #### 速览图
-    ![我的知识结构](https://s1.ax1x.com/2020/07/20/U4Xii8.png))
+    ![我的知识结构](https://s1.ax1x.com/2020/07/20/U4Xii8.png)
 
     ```javascript
-    ``//前端基础知识
+    //前端基础知识
     const basic_enumFrentEnd={//
         'html':'前端的开发的骨架',
         'javascript':'前端开发的灵魂，也是前端开发水平的分水岭',
         'css':'为前端页面提供丰富样式'
     }
-    ``//当代前端必会
+    //当代前端必会
     const entries_FrentEnd={
         'vue':['vueJS','vuex','vue-router','axios','antdesign-vue','elementUI',...'其他vue生态'],
         'react':['reactjs'，'redux','react-router'，'dva','umijs','OC','redux-saga'，'redux-thunk','preact','jsx',...'其他react生态'],
         'bootstrap':['栅格系统','css组件','功能组件等'],
         'jquery':['jquery操作dom'，'jquery的事件监听和处理','juqery插件封装和使用']
     } 
-    ``//我的更多实践
+    //我的更多实践
     const more_FrentEndArr=['模块化和工程化','node做开发工具','node做eletron应用','node搭建简单后台服务','loopback、koa、express等后台框使用']     
     
     ```
+    
     ### 我的开源-MIT
     -   [ vcallapp](https://www.npmjs.com/package/vcallapp) 一个方便通过 vue 指令唤起 APP 的解决方案
     -    [ant-mobile-wzk](https://www.npmjs.com/package/antd-mobile-wzk) 一个自用的ant-mobile/react模板
