@@ -18,7 +18,7 @@
     
     ### 我的知识结构
     #### 速览图
-    ![我的知识结构](https://raw.githubusercontent.com/newued/me/master/aseets/whatIknonw.png))
+    ![我的知识结构](https://s1.ax1x.com/2020/07/20/U4Xii8.png))
 
     ```javascript
     ``//前端基础知识
