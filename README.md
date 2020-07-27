@@ -4,7 +4,11 @@
 <p align="center">多年资深🐴农一枚。</p>
 <h4 align="center">生命不息  coding不止</h4>
 <p  align="center">QQ:2535565243    \/  微信：wzk-1314</p>
-
+### 个人简介
+- 8年开发经验，精通web前端开发/dapp/as3开发，熟练掌握前端兼容性问题和当前流行前端技术。
+- 对vue/react及生态等有深入理解和丰富实践经验。
+- 项目中有用node提供cli开发工具等前端基建工作以及web中间层的实践。
+- 有对flutter/react-native/weex/uniapp等跨端产品的了解或实践，了解php/python基础。
 ### 我的开源MIT 
 -  [ vcallapp](https://www.npmjs.com/package/vcallapp) 一个方便通过 vue 指令唤起 APP 的解决方案
 -  [ant-mobile-wzk](https://www.npmjs.com/package/antd-mobile-wzk) 一个自用的ant-mobile/react模板
